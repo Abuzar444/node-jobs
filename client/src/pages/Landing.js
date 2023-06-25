@@ -15,9 +15,7 @@ const Landing = () => {
             job <span>Tracking</span> app
           </h1>
           <p>
-            Welcome to JobTrace,Your Ultimate Job Tracking Solution
-            Take Control of Your Job Search with JobTrace and
-            Stay on Top of Your Career,Organize, and Excel in Your Job Hunt with JobTrace
+            Welcome to JobTrace,Your Ultimate Job Tracking
           </p>
           <Link to='/register' className='btn btn-hero'>
             Login/Register
